@@ -28,7 +28,7 @@ const Header = () => {
       <div className="logo">
         <FaReddit className="logo-icon" />
         <p>
-          Reddit<span>Minimal</span>
+          Reddit<span>&nbsp;Minimal</span>
         </p>
       </div>
       <form className="search" onSubmit={onSearchTermSubmit}>
